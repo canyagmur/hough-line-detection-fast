@@ -10,5 +10,7 @@ Below is an example showing the input image and the corresponding output after a
 |------------------------------------------|-------------------------------------------|
 | ![Input](input/ev.png)         | ![Output](output/can_hough_ev.png)        |
 | ![Input](input/road.jpg)       | ![Output](output/can_hough_road.png)      |
-| ![Input](output/can_video.png)      | ![Output](output/opencv_video.png)     |
 
+| **Video sample with FPS annotation from my algorithm**                          | **Video sample with FPS annotation from OpenCV implementation**|
+|------------------------------------------|-------------------------------------------|
+| ![Input](output/can_video.png)      | ![Output](output/opencv_video.png)     |
